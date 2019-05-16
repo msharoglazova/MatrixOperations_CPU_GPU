@@ -1,14 +1,3 @@
-/*
- Name: Maria Sharoglazova
- 
- Course: CS280 Introduction to Parallel and Cloud Programming, Section 831, Spring 2019,Online
- 
- CRN: 36298
- 
- Assignment: #12, Matrix_CPU_GPU
- 
- Date: 5-15-2019
- */
 
 /**
  * @copyright MSharoglazova 5-15-2019
